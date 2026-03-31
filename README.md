@@ -1,4 +1,4 @@
-# Rosetta GSoC Code Tests
+# [Rosetta GSoC Code Tests](https://github.com/rstats-gsoc/gsoc2026/wiki/rosetta%3A-Python-wrappers-for-Bioconductor-packages-via-rpy2)
 
 Solutions for the overarching GSoC 2026 project tests for the `rosetta` wrapper, which provides Python interfaces for Bioconductor differential expression engines via `rpy2`. The code prioritizes native R statistical proxy modeling rather than raw string execution, ensuring a clean and robust Python API that safely checks inputs before parsing.
 
